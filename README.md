@@ -1,5 +1,5 @@
 # xBilling: Free and Open Source Alternative to WHMCS
-
+<h1><b>This project is discontinued. Check out https://github.com/mahtab2003/Xera</b></h1>
 xBilling is an client area and account management system for cPanel WHM, Plesk, and MyOwnFreeHost (MOFH). Please note that xBilling is not a web hosting service. It is currently in development.
 
 ## Features
